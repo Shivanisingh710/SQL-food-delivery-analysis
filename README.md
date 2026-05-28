@@ -62,18 +62,6 @@ The project demonstrates practical implementation of advanced SQL concepts, incl
 
 ---
 
-## Project Structure
-
-```bash
-├── customers.csv
-├── orders.csv
-├── restaurants.csv
-├── menu.csv
-├── advanced_food_delivery_analysis.sql
-└── README.md
-```
-
----
 
 ## Skills Demonstrated
 
